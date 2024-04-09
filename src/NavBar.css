@@ -1,0 +1,26 @@
+.MyNavBarClass a {
+  color: white;
+}
+
+.MyNavBarClass a.active {
+  color: black;
+}
+
+
+.NavBar {
+  background-color: lightcoral; /* Dark background */
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  margin: auto
+}
+
+h1,img {
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  margin: auto
+}
